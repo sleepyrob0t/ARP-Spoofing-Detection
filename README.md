@@ -1,7 +1,5 @@
 # ARP-Spoofing-Detection
 
-# ARP Spoofer Detection
-
 This script detects ARP spoofing attacks by comparing the actual MAC address of a device with the one provided in ARP replies. If a discrepancy is found, it warns the user.
 
 ## What is ARP Spoofing?
